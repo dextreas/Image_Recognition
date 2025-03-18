@@ -6,7 +6,8 @@ OpenCV
 TKinter
 Scikit-Learn
 
-This project was done following a tutorial. However the codes have been overwritten as the tutorial is over 4 years old and the codes are not working.
+This project was done following a tutorial. 
+However the codes from the tutorial have been overwritten as the tutorial is over 4 years old and the codes were not working.
 
 Working demo:
 https://youtu.be/KZ7zTeVCbTQ
