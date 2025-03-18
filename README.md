@@ -7,3 +7,6 @@ TKinter
 Scikit-Learn
 
 This project was done following a tutorial. However the codes have been overwritten as the tutorial is over 4 years old and the codes are not working.
+
+Working demo:
+https://youtu.be/KZ7zTeVCbTQ
