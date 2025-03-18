@@ -1,5 +1,5 @@
 # Image_Recognition
-Thid programmes trains the AI to learn and distinguish objects.
+This is a programme that trains the AI to learn and distinguish objects.
 
 Software used:
 OpenCV
